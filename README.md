@@ -1,2 +1,2 @@
 # LLM-Chatbot
-Creating a LLM chatbot project using Open source LLMs
+Project Idea : to create an LLM chatbot using Ollama or Open source llms
