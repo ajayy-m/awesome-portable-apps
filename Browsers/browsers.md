@@ -1,10 +1,10 @@
 # 🌐 Browsers
 
-- Firefox Portable  
-- Chrome Portable  
-- Brave Portable  
-- Opera Portable  
-- Tor Browser  
-- Ungoogled Chromium  
-- Vivaldi Portable  
-- Edge Portable  
+- Firefox Portable - https://portableapps.com/apps/internet/firefox_portable
+- Chrome Portable - https://portableapps.com/apps/internet/google_chrome_portable
+- Brave Portable - https://portapps.io/app/brave-portable/
+- Opera Portable - https://portableapps.com/apps/internet/opera_portable
+- Tor Browser - https://www.torproject.org/download/
+- Ungoogled Chromium - https://portapps.io/app/ungoogled-chromium-portable/
+- Vivaldi Portable - https://vivaldi.com/download/
+- Edge Portable - https://github.com/bibicadotnet/microsoft-edge-multi-portable
