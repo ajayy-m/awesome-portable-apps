@@ -1,7 +1,7 @@
 ## 📂 Categories
 
 - [Browsers](Browsers/browsers.md)
-- [Office & Productivity](Office & Productivity/office.md)
+- [Office & Productivity](Office_&_Productivity/office.md)
 - [Media Players](media.md)
 - [Image Editors](image-editors.md)
 - [File Managers](file-managers.md)
