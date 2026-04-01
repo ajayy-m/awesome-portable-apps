@@ -1,6 +1,6 @@
 ## 📂 Categories
 
-- [Browsers](browsers.md)
+- [Browsers](browsers/browsers.md)
 - [Office & Productivity](office.md)
 - [Media Players](media.md)
 - [Image Editors](image-editors.md)
