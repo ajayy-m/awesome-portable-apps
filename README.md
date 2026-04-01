@@ -1,2 +1,11 @@
-# LLM-Chatbot
-Project Idea : to create an LLM chatbot using Ollama or Open source llms
+## 📂 Categories
+
+- [Browsers](browsers.md)
+- [Office & Productivity](office.md)
+- [Media Players](media.md)
+- [Image Editors](image-editors.md)
+- [File Managers](file-managers.md)
+- [Security & Privacy](security.md)
+- [Development Tools](development.md)
+- [System Utilities](system-utilities.md)
+- [Miscellaneous](miscellaneous.md)
