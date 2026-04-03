@@ -1,0 +1,22 @@
+VLC Media Player Portable - https://portableapps.com/apps/music_video/vlc_portable
+MPC-BE Portable - https://portableapps.com/apps/music_video/mpc-be-portable
+AIMP Portable - https://portableapps.com/apps/music_video/aimp-portable
+Audacity Portable - https://portableapps.com/apps/music_video/audacity_portable
+HandBrake Portable - https://portapps.io/app/handbrake-portable/
+OBS Studio Portable - https://portableapps.com/apps/music_video/obs-studio-portable
+Shotcut Portable - https://portableapps.com/apps/music_video/shotcut-portable
+Avidemux Portable - https://portableapps.com/apps/music_video/avidemux_portable
+GIMP Portable - https://portableapps.com/apps/graphics_pictures/gimp_portable
+Paint.NET Portable - https://portableapps.com/apps/graphics_pictures/paint.net_portable
+Krita Portable - https://portableapps.com/apps/graphics_pictures/krita_portable
+Inkscape Portable - https://portableapps.com/apps/graphics_pictures/inkscape_portable
+IrfanView Portable - https://portableapps.com/apps/graphics_pictures/irfanview_portable
+XnView Portable - https://portableapps.com/apps/graphics_pictures/xnview_portable
+FastStone Image Viewer Portable - https://portableapps.com/apps/graphics_pictures/faststone_image_viewer_portable
+HoneyView Portable - https://portableapps.com/apps/graphics_pictures/honeyview_portable
+JPEGView Portable - https://portableapps.com/apps/graphics_pictures/jpegview_portable
+nomacs Portable - https://portableapps.com/apps/graphics_pictures/nomacs_portable
+PhotoDemon Portable - https://portableapps.com/apps/graphics_pictures/photodemon_portable
+FotoSketcher Portable - https://portableapps.com/apps/graphics_pictures/fotosketcher_portable
+SMPlayer Portable - https://portableapps.com/apps/music_video/smplayer_portable
+VirtualDub Portable - https://portableapps.com/apps/music_video/virtualdub_portable
